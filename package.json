@@ -1,0 +1,24 @@
+{
+  "name": "redux-ive",
+  "version": "1.0.0",
+  "description": "``THIS IS JUST A STUDY PROJECT``",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeflyer/redux-ive.git"
+  },
+  "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeflyer/redux-ive/issues"
+  },
+  "homepage": "https://github.com/codeflyer/redux-ive",
+  "dependencies": {
+    "babel": "^5.8.34",
+    "rx": "^4.0.7"
+  }
+}
